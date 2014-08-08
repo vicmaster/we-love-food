@@ -4,7 +4,7 @@
 
 * Maruchan Soup.
 
-* Warer.
+* Water.
 
 ## Preparation:
 
